@@ -1,0 +1,16 @@
+{
+  "name": "yarn-test",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": "6.0.0"
+  },
+  "author": "Ryan",
+  "contributors": [],
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
